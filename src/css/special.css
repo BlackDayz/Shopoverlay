@@ -1,0 +1,116 @@
+.red {
+	color: red;
+}
+.white {
+	color: white;
+}
+.black {
+	color: black;
+}
+.tiny {
+	font-size: 0.5em;
+}
+.tiny-2 {
+	font-size: 0.8em;
+}
+.big {
+	font-size: 1.5em;
+}
+.font {
+	font-family: soleil, sans-serif;
+}
+.font2 {
+	font-family: allotrope, sans-serif;
+}
+.bold {
+	font-weight: 900;
+}
+.weight-100 {
+	font-weight: 100;
+}
+.weight-600 {
+	font-weight: 600;
+}
+.weight-700 {
+	font-weight: 700;
+}
+.uppercase {
+	text-transform: uppercase;
+}
+.italic {
+	font-style: italic;
+}
+.textright {
+	text-align: right;
+}
+.textleft {
+	text-align: left;
+}
+.listen ul li {
+	display: inline;
+	list-style-type: none;
+	text-decoration: none;
+}
+.list-style-type-n ul li {
+	list-style-type: none;
+}
+.center {
+	text-align: center;
+}
+.left {
+	float: left;
+}
+.right {
+	float: right;
+}
+.relative {
+	position: relative;
+}
+.absolute {
+	position: absolute;
+}
+.fixed {
+	position: fixed;
+}
+.bg_white {
+	background: white;
+}
+.bg_black {
+	background: black;
+}
+.textdeco {
+	text-decoration: none;
+}
+.flowhidden {
+	overflow: hidden;
+}
+.flowyhidden {
+	overflow-y: hidden;
+}
+.flowxhidden {
+	overflow-x: hidden;
+}
+.display-block {
+	display: block;
+}
+.display-none {
+	display: none;
+}
+.display-inline-block {
+	display: inline-block;
+}
+.margin-0-auto {
+	margin: 0 auto;
+}
+.height-auto {
+	height: auto;
+}
+.opacity-0 {
+	opacity: 0;
+}
+.cursor-context-menu {
+	cursor: context-menu;
+}
+.width-100 {
+	width: 100%;
+}

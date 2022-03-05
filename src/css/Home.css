@@ -1,0 +1,52 @@
+.home-page-1,
+.home-page-2,
+.home-page-3,
+.home-page-4 {
+  margin: 200px 0 0 0;
+}
+
+.home-page-1 h1 {
+	font-size: 2em;
+}
+
+.home-page-2 {
+	padding: 50px;
+	background: rgb(219, 28, 28);
+}
+
+.hp2-left-info {
+	width: 33%;
+	padding: 20px;
+}
+
+.hp2-right-info {
+	width: 33%;
+	padding: 20px;
+}
+
+.hp2-header {
+	font-size: 3em;
+}
+
+.home-page-3 {
+	height: 800px;
+}
+
+.home-page-4 {
+	padding: 50px;
+	background: rgb(219, 28, 28);
+}
+
+.hp4-left-info {
+	width: 33%;
+	padding: 20px;
+}
+
+.hp4-right-info {
+	width: 33%;
+	padding: 20px;
+}
+
+.hp4-header {
+	font-size: 3em;
+}
